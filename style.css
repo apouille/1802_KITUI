@@ -1,0 +1,122 @@
+
+
+/************************/
+/* 	    COULEURS        */
+/************************/
+
+.primary {
+	background-color: #FAD306;
+}
+
+.text-primary {
+  color: #FAD306;	
+}
+
+
+.secondary {
+	background-color: #94B4C4;
+}
+
+.text-secondary {
+  color: #94B4C4;	
+}
+
+.dark {
+	background-color: #7C7C7C;
+}
+
+.text-dark {
+  color: #7C7C7C;	
+}
+
+.medium-light {
+	background-color: #B4B4B4;
+}
+
+.text-medium-light {
+  color: #B4B4B4;	
+}
+
+.light {
+	background-color: #F4F4F4;
+}
+
+.text-light {
+  color: #F4F4F4;	
+}
+
+
+
+/************************/
+/* 	    TYPOGRAPHIE     */
+/************************/
+
+
+.h1 {
+	font-family: Montserrat;
+	font-size: 50px;
+	color:#222;
+}
+
+.h2 {
+	font-family: Montserrat;
+	font-size: 45px;
+	color:#222;
+}
+
+.h3 {
+	font-family: Montserrat;
+	font-size: 40px;
+	color:#222;
+}
+
+.h4 {
+	font-family: Montserrat;
+	font-size: 35px;
+	color:#222;
+}
+
+.h5 {
+	font-family: Montserrat;
+	font-size: 30px;
+	color:#222;
+}
+
+.h6 {
+	font-family: Montserrat;
+	font-size: 25px;
+	color:#222;
+}
+
+.p{
+	font-family: Roboto;
+	font-size: 20px;
+	color:#222;
+}
+
+.lead{
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 20px;
+	color:#222;
+}
+
+.blockquote{
+	font-family: Roboto;
+	font-style: italic;
+	font-size: 15px;
+	color:#222;
+}
+
+
+.ul{ 
+	list-style-position: inside;
+    list-style-type: circle;
+}
+
+.ol{
+	list-style-position: inside;
+}
+
+.li {
+}
