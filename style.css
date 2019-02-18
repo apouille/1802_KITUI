@@ -48,7 +48,7 @@
 
 
 /************************/
-/* 	    TYPOGRAPHIE     */
+/* 	    TYPOGRAPHIES    */
 /************************/
 
 
@@ -236,10 +236,98 @@
 
 
   .fa-fish {
+  	color: #ACACB4;
+  	font-size: 3em
   }
 
   .fa-frog {
+  	color: green;
+  	font-size: 3em;
   }
 
-  .fa-igloo {
+  .fa-bread-slice {
+  	color: #CCAC94;
+  	font-size: 3em;
   }
+
+  .fa-apple-alt{
+  	color: #CC2C2C;
+  	font-size: 3em;
+  }
+
+  .fa-drumstick-bite{
+  	color: #744424;
+  	font-size: 3em;
+  }
+  .fa-cheese{
+  	color: #FCBB04;
+  	font-size: 3em;
+  }
+
+
+
+/************************/
+/* 	    FORMULAIRES     */
+/************************/
+
+
+.form-control{
+	width: 80%;
+	height: 34px;
+	font-size: 14px;
+	background-color: #fff;
+	border-radius: 4px;
+	color: #434a54;
+	border-color: #aab2bd;
+	border: 1px solid #ccc;
+	font-family: Arial;
+}
+
+.form-group{
+	width: 40%;
+}
+
+.container {
+  font-family: Arial;
+}
+
+.form-check .form-check-label {
+  font-family: Arial;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  transition: color .3s linear;
+}
+
+
+.list-group {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+.list-group-item-action {
+    width: 60%;
+    color: #495057;
+    text-align: inherit;
+}
+
+.d-flex-row{
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
