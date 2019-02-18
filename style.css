@@ -120,3 +120,74 @@
 
 .li {
 }
+
+
+/************************/
+/* 	    BOUTONS     */
+/************************/
+
+.btn{
+	font-family: Arial;
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.btn-block {
+	display: block;
+    width: 100%;
+}
+
+.btn-primary {
+	background-color: #10A3C5;
+}
+
+.btn-warning {
+	background-color: #F8960F;
+}
+
+.btn-danger {
+	background-color: #da4453;
+}
+
+.btn-info {
+	background-color: #047C9C;
+}
+.btn-success {
+	background-color: #449C6C;
+}
+
+.btn-outline-primary {
+	background-color: #10A3C5;
+}
+.btn-outline-warning {
+	background-color: #F8960F;
+}
+.btn-outline-danger {
+	background-color: #da4453;
+}
+.btn-outline-info {
+	background-color: #047C9C;
+}
+.btn-outline-success {
+	background-color: #449C6C;
+}
+
+.btn-lg{
+	padding: .5rem 1rem;
+	font-size: 1.25rem;
+	line-height: 1.5;
+	border-radius: .3rem;
+}
+
+.btn-sm{
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+}
