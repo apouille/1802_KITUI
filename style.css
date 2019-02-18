@@ -163,19 +163,55 @@
 }
 
 .btn-outline-primary {
+	background-color: transparent;
+	color: #10A3C5;
+	border-color: #10A3C5;
+}
+
+.btn-outline-primary:hover {
 	background-color: #10A3C5;
+	color: white ;
 }
+
 .btn-outline-warning {
+	background-color: transparent;
+	color: #F8960F;
+	border-color:  #F8960F;
+}
+.btn-outline-warning:hover {
 	background-color: #F8960F;
+	color: white ;
 }
+
 .btn-outline-danger {
+	background-color: transparent;
+	color: #da4453;
+	border-color: #da4453;
+}
+
+.btn-outline-danger:hover {
 	background-color: #da4453;
+	color: white ;
 }
+
 .btn-outline-info {
-	background-color: #047C9C;
+	background-color: transparent;
+	color: #047C9C;
+	border-color: #047C9C;
 }
+.btn-outline-info:hover {
+	background-color: #047C9C;
+	color: white ;
+}
+
 .btn-outline-success {
+	background-color: transparent;
+	color: #449C6C;
+	border-color: #449C6C;
+}
+.btn-outline-success:hover {
 	background-color: #449C6C;
+	color: white ;
 }
 
 .btn-lg{
@@ -191,3 +227,19 @@
     line-height: 1.5;
     border-radius: .2rem;
 }
+
+
+
+/************************/
+/* 	      ICONES        */
+/************************/
+
+
+  .fa-fish {
+  }
+
+  .fa-frog {
+  }
+
+  .fa-igloo {
+  }
